@@ -1,4 +1,4 @@
-# WroclawRestaurantsAnalysis
+# Wroclaw Restaurants Analysis
 ## Introduction
 The project aims to carry out an analysis of the network of restaurants located in Wroclaw. In addition a quick simulation was made
 to emerge a few top restaurants that will potentially still prosper within the next 5 years.
